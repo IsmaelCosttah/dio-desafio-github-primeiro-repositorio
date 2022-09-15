@@ -1,0 +1,5 @@
+Link Git: https://github.com/
+Assuntos abordados no Projeto:
+-Introdução e apresentação do Projeto;
+-Git e GitHub: Relembrando algumas coisinhas;
+-Desafio Projeto
