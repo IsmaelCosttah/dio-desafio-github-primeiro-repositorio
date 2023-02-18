@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table width=" 100%" heigth="300px" bgcolor="yellow" border="bgcolor">
+        <thead>
+            <tr>
+                <th align="center">Matricula</th>
+                <th>Nome</th>
+                <th>Jan 2022 - 1</th>
+                <th>Jan 2022 - 2</th>
+                <th>Jan 2022 - 3</th>
+                <th>Jan 2022 - 4</th>
+                <th>Fev 2022 - 1</th>
+                <th>Fev 2022 - 2</th>
+                <th>Fev 2022 - 3</th>
+                <th>Fev 2022 - 4</th>
+                <th>Fev 2022 - 5</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr align="center">
+                <td>1</td>
+                <td align="left">Ismael Silva da Costa</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+                <td bgcolor="red">F</td>
+                <td>x</td>
+                <td bgcolor="red">F</td>
+                <td bgcolor="red">F</td>
+                <td>x</td>
+            </tr>
+            <tr align="center">
+                <td>2</td>
+                <td align="left">Icaro Carlos Mendes</td>
+                <td bgcolor="red">F</td>
+                <td>x</td>
+                <td bgcolor="red">F</td>
+                <td>x</td>
+                <td bgcolor="red">F</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+            </tr>
+            <tr align="center">
+                <td>3</td>
+                <td align="left">Gonvalez Marques Pereira</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+                <td>x</td>
+                <td bgcolor="red">F</td>
+                <td>x</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
