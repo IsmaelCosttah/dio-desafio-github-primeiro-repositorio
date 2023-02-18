@@ -12,15 +12,15 @@
             <tr>
                 <th align="center">Matricula</th>
                 <th>Nome</th>
-                <th>Jan 2022 - 1</th>
-                <th>Jan 2022 - 2</th>
-                <th>Jan 2022 - 3</th>
-                <th>Jan 2022 - 4</th>
-                <th>Fev 2022 - 1</th>
-                <th>Fev 2022 - 2</th>
-                <th>Fev 2022 - 3</th>
-                <th>Fev 2022 - 4</th>
-                <th>Fev 2022 - 5</th>
+                <th>Jan 2022 - Aula 1</th>
+                <th>Jan 2022 - Aula 2</th>
+                <th>Jan 2022 - Aula 3</th>
+                <th>Jan 2022 - Aula 4</th>
+                <th>Fev 2022 - Aula 1</th>
+                <th>Fev 2022 - Aula 2</th>
+                <th>Fev 2022 - Aula 3</th>
+                <th>Fev 2022 - Aula 4</th>
+                <th>Fev 2022 - Aula 5</th>
             </tr>
         </thead>
         <tbody>
